@@ -1,1 +1,3 @@
-# Candidatura-wimo
+server.js
+package.json
+public/index.html
